@@ -8,6 +8,5 @@
 #### - I used these material to build this website:HTML, CSS,REACTSTRAP,JAVASCRIPT, REACT,FIREBASE,HEROKU,NODEJS, EXPRESS.JS, MONGODB
 
 
-## Back to [portfolilo](https://azimuahamed.netlify.app)
-### Here is my [Resume](https://drive.google.com/file/d/1WuszKFXySEJi6lGh8qqpXo9rmpPcRwRi/view?usp=sharing)
+
 
