@@ -1,0 +1,7 @@
+.orderClass{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
