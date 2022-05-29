@@ -5,7 +5,7 @@
 
 ### - A web application for e-commerce
 #### - By selecting a specific item,  it’s redirected to review and  it shows a cart button to procceed order.It is a CRUD project
-#### - I used these material to build this website:HTML, CSS,REACTSTRAP,JAVASCRIPT, REACT,FIREBASE,HEROKU,NODEJS, EXPRESS.JS, MONGODB
+#### - I used these material to build this website: HTML, CSS, REACTSTRAP, JAVASCRIPT, REACT, FIREBASE, HEROKU, NODEJS, EXPRESS.JS, MONGODB
 
 
 
