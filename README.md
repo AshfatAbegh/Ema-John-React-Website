@@ -1,4 +1,4 @@
-# live link : [Ema-John E-commerce](https://ema-john-react-firebase.web.app/)
+# live link : [Ema-John E-commerce]([https://ema-john-react-firebase.web.app/](https://ema-john-react-website-project.netlify.app/))
 
 
 ![Ema-John e-commerce website photo](https://i.ibb.co/jh0kHvr/ema-john-screen.png)
